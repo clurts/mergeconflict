@@ -1,0 +1,13 @@
+header {
+    background-color: teal;
+}
+nav {
+    background-color: tomato;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+}
+footer {
+    background-color: wheat;
+}
