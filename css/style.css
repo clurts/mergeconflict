@@ -8,13 +8,10 @@ nav a {
     color: white;
     text-decoration: none;
 }
-
 main {
-    background: orange;
-    color: black;
+    background-color: palegoldenrod;
+    color: turquoise;
 }
-
-
 footer {
     background-color: wheat;
 }
